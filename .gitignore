@@ -1,0 +1,6 @@
+*.mp4
+backend/uploads
+dataset
+frontend/node_modules
+frontend/package-lock.json
+predictions
