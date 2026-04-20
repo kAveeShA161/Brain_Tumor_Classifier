@@ -4,3 +4,4 @@ dataset
 frontend/node_modules
 frontend/package-lock.json
 predictions
+__pycache__
