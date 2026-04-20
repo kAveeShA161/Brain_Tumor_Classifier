@@ -83,17 +83,3 @@ The system is deployed as a **web application using Flask (backend) and React (f
   - 🔴 Red → Tumor detected
 
 ---
-
-## 📸 Screenshots
-
-### 🔹 Application UI
-![App Screenshot](screenshots/app_ui.png)
-
-### 🔹 Image Upload & Prediction
-![Prediction Screenshot](screenshots/prediction.png)
-
-### 🔹 Model Training Graph
-![Training Graph](screenshots/training_graph.png)
-
----
-
