@@ -54,7 +54,7 @@ function UploadForm() {
 
         <form onSubmit={handleSubmit} style={styles.form}>
           <input type="file" accept="image/*" onChange={handleFileChange} style={styles.input} />
-          <button type="submit" style={styles.button} disabled={loading}>
+          <button style={styles.button} disabled={loading}>
             {loading ? 'Predicting...' : 'Predict'}
           </button>
         </form>
